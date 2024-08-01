@@ -1,11 +1,7 @@
-# Could just force-add these files and leave this as '*', but this way I have a
-# nice explicit list for documentation's sake.
-
-# Ignore everything by default.
-*
-
 # Bash stuff (profile just sources bashrc, since it's the only thing sourced
 # when a shell is a login shell).
+yarn
+configstore
 !.bash*
 .*.swp
 .bash_history
