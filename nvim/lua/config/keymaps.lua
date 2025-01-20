@@ -10,4 +10,4 @@ local function next_buffer()
 end
 
 -- Set up the keymap
-map("n", "<Tab>b", next_buffer, { noremap = true, silent = true, desc = "Go to the next buffer" })
+map("n", "<Tab><leader>", next_buffer, { noremap = true, silent = true, desc = "Go to the next buffer" })
