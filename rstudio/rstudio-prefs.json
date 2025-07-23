@@ -1,0 +1,9 @@
+{
+    "default_encoding": "UTF-8",
+    "initial_working_directory": "~",
+    "posix_terminal_shell": "bash",
+    "text_rendering": "geometricPrecision",
+    "font_size_points": 12,
+    "editor_theme": "Dracula",
+    "auto_detect_indentation": true
+}
